@@ -1,0 +1,17 @@
+{
+  "root": "/home/dev/feedback/uid31131",
+  "B": "/home/dev/feedback/uid31131",
+  "sha": "4e4fd85c4b2f5915f85182ba734a4eaa49f7a0ab",
+  "wslDistro": "Ubuntu-26.04",
+  "source": {
+    "owner": "DependencyTrack",
+    "repo": "dependency-track",
+    "sha": "4e4fd85c4b2f5915f85182ba734a4eaa49f7a0ab"
+  },
+  "fork": {
+    "owner": "Rrr119",
+    "repo": "dependency-track",
+    "cloneUrl": "https://github.com/Rrr119/dependency-track.git"
+  },
+  "at": "2026-11-21T00:33:18.954Z"
+}
